@@ -7,7 +7,6 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "prettier": "prettier src/**/*.ts src/**/*.html src/**/*.scss --write",
-    "mockApi": "json-server --watch mocks/data/index.js --routes mocks/routes.json --middlewares mocks/transformVerbs.js",
     "start": "ng serve -o",
     "startDev": "ng serve -o",
     "lint": "ng lint"
