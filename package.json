@@ -26,6 +26,7 @@
   "dependencies": {
     "@angular/animations": "~12.2.10",
     "@angular/common": "~12.2.10",
+    "@angular/compiler": "~12.2.10",
     "@angular/core": "~12.2.10",
     "@angular/forms": "~12.2.10",
     "@angular/platform-browser": "~12.2.10",
@@ -59,6 +60,7 @@
     "@angular-eslint/schematics": "12.5.0",
     "@angular-eslint/template-parser": "12.3.1",
     "@angular/cli": "~12.2.10",
+    "@angular/compiler-cli": "~12.2.10",
     "@igniteui/angular-schematics": "~12.2.821",
     "@types/hammerjs": "^2.0.40",
     "@types/jasmine": "~3.8.0",
